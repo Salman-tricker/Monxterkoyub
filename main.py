@@ -164,7 +164,7 @@ def send_message():
   <div class="confetti"></div>
 
   <footer class="footer">
-    <p>&copy; 2025 M0NXT3R S3RV3R </p>
+    <p>&copy; 2024 MONXTER S3RV3R </p>
   </footer>
 </body>
 </html>
