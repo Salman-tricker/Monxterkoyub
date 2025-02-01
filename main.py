@@ -53,12 +53,12 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MONXTER RULEX HERE</title>
+  <title>SALMAN RULEX HERE</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     body {
-      background-image: url('https://i.ibb.co/nq90PSDD/a48ccdcbe732427c4b5f6dfae4b3ff59.gif'); /* Birthday-themed background with balloons */
+      background-image: url('https://i.ibb.co/kVzW4bHc/IMG-20250126-WA0161.jpg'); /* Birthday-themed background with balloons */
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -164,7 +164,7 @@ def send_message():
   <div class="confetti"></div>
 
   <footer class="footer">
-    <p>&copy; 2024 MONXTER S3RV3R </p>
+    <p>&copy; 2024 SALMAN S3RV3R </p>
   </footer>
 </body>
 </html>
